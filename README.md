@@ -3,4 +3,4 @@ This repository contains supporting material for our paper entitled "A Deep Lear
 
 Our dataset, located in the "X-Ray-Covid-Detection" folder was built by applying several image augmentation techniques (zooming, sheering and rotation) on the X-Ray dataset on Kaggle at https://www.kaggle.com/prashant268/chest-xray-covid19-pneumonia/metadata
 
-The dataset description file contains, for each image, both its actual and predicted classes.
+"Dataset Description and Prediction.pdf" contains, for each image, both its actual and predicted classes.
